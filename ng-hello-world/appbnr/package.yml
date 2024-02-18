@@ -1,0 +1,12 @@
+schemaVersion: 1.0.0
+
+code: ng-hello-world
+name: Hello World - Angular
+description: A demo app to say hello to the world, built on Angular
+developer: gh-dopsun
+visibility: Public
+copyright: © 2024 Appbnr Technologies Limited
+
+release:
+  version: 0.0.1
+  summary: Draft release
