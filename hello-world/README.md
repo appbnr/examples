@@ -14,9 +14,11 @@ Here are steps to build:
 
 * Clone repository
 * Update `appbnr/package.yml`
-** Channge `developer` to the organization code you owned
-** Update other details if needed
-* Run `appbnr/package.sh` to build the package
+
+... Channge `developer` to the organization code you owned..
+... Update other details if needed
+
+* Run `appbnr/package.sh` to build the package, and output is in `tmp` folder with a `.zip` as extension.
 
 ## Run
 
